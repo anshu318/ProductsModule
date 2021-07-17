@@ -12,6 +12,7 @@
 	<groupId>com.cognizant</groupId>
 	<artifactId>ProductsModule</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
 	<name>ProductsModule</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
